@@ -7,3 +7,6 @@ Analysis of IPL dataset ,finding the important information .
 March or April and May of every year by eight teams representing eight different cities or states 
 
 in India. The league was founded by the Board of Control for Cricket in India in 2008.
+
+
+![IPL_0](images/IPL_0.jpg)
