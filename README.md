@@ -11,7 +11,7 @@ in India. The league was founded by the Board of Control for Cricket in India in
 
 ![image_0](images/image_0.jpg)
 
-.....
+
 ![IPL_1.2](images/IPL_1.2.jpg
 
 # Libraries Used
