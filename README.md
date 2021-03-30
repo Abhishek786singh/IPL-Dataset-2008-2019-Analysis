@@ -29,4 +29,3 @@ in India. The league was founded by the Board of Control for Cricket in India in
 ![IPL_1](images/IPL_1.png)
 
 # Connect With Me Link- https://www.linkedin.com/in/abhishek-singh-771291170/
-.....
